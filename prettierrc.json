@@ -8,4 +8,4 @@
     "jsxBracketSameLine": false,
     "arrowParens": "avoid",
     "proseWrap": "always",
-    "prettier.printWidth": 80
+
