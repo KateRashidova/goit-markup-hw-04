@@ -101,6 +101,8 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
+  display: flex;
+  align-items: center;
 }
 
 .link-contacts:hover,
@@ -127,7 +129,9 @@ body {
 
 .header-contacts {
   margin-left: auto;
-}
+  display: flex;
+  align-items: center;
+  }
 
 .contacts {
   display: flex;
